@@ -1,6 +1,6 @@
 site_name: POC MKDOC
-site_url: https://studoo-app.github.io/edu-framework-doc
-repo_url: https://github.com/studoo-app/edu-framework
+site_url: https://bfoujols.github.io/poc-mkdoc/
+repo_url: https://github.com/bfoujols/poc-mkdoc
 copyright: 'Copyright © 2022 - 2024 Studoo by Benoit Foujols'
 theme:
   name: material
